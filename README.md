@@ -86,5 +86,5 @@ Painel interativo para análise de deferimentos e indeferimentos de registro pel
 
 # Autor
 
-**Diorger Batista**  
+**Diorger Bretas Chaves**  
 Farmacêutico • Assuntos Regulatórios • Data Advisor
